@@ -3,7 +3,6 @@ const int echoPin = 8;
 const int buzzer = 12;
 const int ledPin = 13;
 
-
 long duration;
 int distance;
 
